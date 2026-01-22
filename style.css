@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Single:wght@100..900&family=Bitcount:wght@100..900&family=Chiron+Sung+HK:ital,wght@0,200..900;1,200..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playwrite+HR:wght@100..400&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
 body{
     background-image: url(slike/pexels-dmitrytomashek-27745906.jpg);
-    background-size: 1540px;
+    background-size: 1500px;
     text-align: center;
 }
 h1{
@@ -96,4 +96,5 @@ img{
 @keyframes a2 {
   0% {transform: rotateY(0deg) rotateX(0deg);}
   100% {transform: rotateY(360deg) rotateX(360deg);}
+
 }
